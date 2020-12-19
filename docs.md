@@ -202,11 +202,7 @@ several times. However, it only comes with one conditional statement
 
 #### Macro Syntax
 
-\[\begin{split}
-    <\text{whileStatement}> \rightarrow \texttt{while(}&\Big\{<\text{expr}>\lvert\epsilon\Big\}\texttt{)\{}\\
-    &<\text{statement}>^*\\
-    &\texttt{\}}
-\end{split}\]
+![47800ae3be85a80bef78c210f932713f](https://user-images.githubusercontent.com/30972152/102686948-48e86880-4211-11eb-9e36-c576121f2d42.png)
 
 # Functions
 
