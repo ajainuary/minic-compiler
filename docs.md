@@ -154,13 +154,8 @@ tests for isn’t true.
 
 ### Macro Syntax
 
-\[\begin{split}
-    <\text{ifElseStatement}> \rightarrow \texttt{if(}&<\text{expr}>\texttt{) \{} \\
-                                                &<\text{statement}>^*\\
-                                                &\texttt{\} else \{}\\
-                                                &<\text{statement}>^*\\
-                                                &\texttt{\}}
-\end{split}\]
+![2c6521ec384945ad057151ec8082d2d6](https://user-images.githubusercontent.com/30972152/102686981-91078b00-4211-11eb-9676-44e4f0d62054.png)
+
 
 ### Ternary Operator
 
